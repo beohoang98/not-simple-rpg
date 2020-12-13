@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Projectile
+  - Collectable
+  - Killable
+  - Gun
+  - UI/WeaponSlot
+  - UI/ItemSlot
+  - Wall
+  - Fox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Wall
+  - Player
+  - Projectile
+  - Pickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1512587381
+    locked: 0
+  - name: Enemy
+    uniqueID: 36544201
+    locked: 0
+  - name: Subject
+    uniqueID: 505463309
+    locked: 0
+  - name: Player
+    uniqueID: 2172883217
+    locked: 0
+  - name: UI
+    uniqueID: 4035629669
+    locked: 0
